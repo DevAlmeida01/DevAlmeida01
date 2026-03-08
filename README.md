@@ -1,9 +1,9 @@
 <div align="center">
-  <!-- Banner de Entrada com Nome Animado -->
+  <!-- Banner de Entrada -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=180&section=header&text=Adriano%20Almeida&fontSize=70&animation=fadeIn" />
 
-  <!-- Texto Animado (Typing Effect) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Adriano+Almeida!;Desenvolvedor+Full+Stack;Especialista+em+Dados+e+Python;UX+Designer;Criador+de+Conteúdo+no+YouTube" />
+  <!-- Animação Corrigida (Desenvolvedor Full Stack, etc) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Especialista+em+Dados+e+Python;UX+Designer;Criador+de+Conteúdo+no+YouTube" />
 </div>
 
 ### 🙋‍♂️ Sobre Mim
@@ -21,7 +21,7 @@ Sou um entusiasta de tecnologia apaixonado por compartilhar conhecimento. Como *
 ### 🤖 Tecnologias e Ferramentas
 
 <div align="center">
-  <!-- Fileira 1: Frontend -->
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" title="JavaScript" />
@@ -32,7 +32,7 @@ Sou um entusiasta de tecnologia apaixonado por compartilhar conhecimento. Como *
   
   <br><br>
 
-  <!-- Fileira 2: Backend & Banco de Dados -->
+  <!-- Backend & Banco de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="55" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="55" title="MySQL Workbench" />
@@ -41,7 +41,7 @@ Sou um entusiasta de tecnologia apaixonado por compartilhar conhecimento. Como *
   
   <br><br>
 
-  <!-- Fileira 3: Dados, UX & ERP -->
+  <!-- Dados, UX & ERP -->
   <img src="https://img.icons8.com/color/96/power-bi.png" width="55" title="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55" title="UX Designer / Figma" />
   <img src="https://img.icons8.com/color/96/data-configuration.png" width="55" title="Análise de Dados" />
@@ -53,14 +53,14 @@ Sou um entusiasta de tecnologia apaixonado por compartilhar conhecimento. Como *
 ### 📊 Painel de Performance
 
 <div align="center">
-  <!-- Badges Modernos de Status (100% Estáveis) -->
+  <!-- Badges de Status -->
   <img src="https://img.shields.io/github/followers/DevAlmeida01?label=Seguidores&style=for-the-badge&color=0070f3&logo=github" /> 
   <img src="https://img.shields.io/github/stars/DevAlmeida01?label=Estrelas&style=for-the-badge&color=36BCF7&logo=reverbnation&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Ativo-green?style=for-the-badge" />
 
   <br><br>
 
-  <!-- Gráfico de Sequência (Streak) - Traduzido e Estável -->
+  <!-- Gráfico de Sequência (Streak) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlmeida01&theme=tokyonight&locale=pt-br" width="100%" />
 </div>
 
