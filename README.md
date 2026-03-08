@@ -11,6 +11,7 @@
 Sou um entusiasta de tecnologia apaixonado por compartilhar conhecimento. Como **Desenvolvedor Full Stack** e **Analista de Dados**, utilizo meu GitHub para documentar minha jornada e meu YouTube/Instagram para ensinar outros devs a saírem do zero.
 
 - 🎥 **YouTube:** [Dev Almeida](https://www.youtube.com/@DevAlmeida-s8j)
+- 💼 **LinkedIn:** [Adriano Almeida](https://www.linkedin.com/in/adrianoalmeidadev/)
 - 📸 **Instagram:** [@adrianosts_](https://www.instagram.com/adrianosts_/)
 - 🛠 **Stack Principal:** Python (Django), React, SQL e Power BI.
 - 📍 **Localização:** Salvador, Bahia.
@@ -65,8 +66,11 @@ Sou um entusiasta de tecnologia apaixonado por compartilhar conhecimento. Como *
 
 ---
 
-### 🎥 Conecte-se comigo
+### 🚀 Conecte-se comigo
 <p align="center">
+    <a href="https://www.linkedin.com/in/adrianoalmeidadev/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
     <a href="https://www.youtube.com/@DevAlmeida-s8j" target="_blank">
         <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
