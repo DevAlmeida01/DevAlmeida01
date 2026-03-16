@@ -16,7 +16,7 @@
 
 Sou **Desenvolvedor Full Stack Jr.** formado em Análise e Desenvolvimento de Sistemas pela **UNIFACS (2025)**. Especialista no ecossistema **Python/Django** e interfaces modernas com **React e Next.js**.
 
-Tenho experiência em sistemas corporativos como **TOTVS RM, Salesforce e Jira** — o que me dá uma visão de negócio além do código. Atualmente na **Bernoulli Educação**, crio aplicações escaláveis e otimizo fluxos de trabalho com foco em resultado.
+Tenho experiência em sistemas corporativos como **TOTVS RM, Salesforce e Jira** — o que me dá uma visão de negócio além do código. Crio aplicações escaláveis e otimizo fluxos de trabalho com foco em resultado.
 
 - 🎥 **YouTube:** [Dev Almeida](https://www.youtube.com/@DevAlmeida-s8j)
 - 💼 **LinkedIn:** [Adriano Almeida](https://www.linkedin.com/in/adrianoalmeidadev/)
