@@ -1,16 +1,6 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ea580c"/>
-      <stop offset="100%" style="stop-color:#f97316"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,0 L1200,0 L1200,140 Q900,200 600,170 Q300,140 0,180 Z" fill="url(#g)"/>
-  <text x="600" y="90" text-anchor="middle" font-family="Arial Black,sans-serif" font-size="58" font-weight="900" fill="white">Adriano Almeida</text>
-  <text x="600" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="rgba(255,255,255,0.85)">Full Stack Developer | Python &amp; Django</text>
-</svg>
+<img width="100%" src="./banner.svg" alt="Adriano Almeida Banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%2F%2F+Python+%26+Django;Backend+Engineer+%2F%2F+Django+%26+REST;Analista+de+Dados+%2F%2F+Power+BI+%26+SQL;Frontend+Dev+%2F%2F+React+%26+JavaScript;Do+zero+ao+deploy+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -26,7 +16,7 @@
 
 Sou **Desenvolvedor Full Stack Jr.** formado em Análise e Desenvolvimento de Sistemas pela **UNIFACS (2025)**. Especialista no ecossistema **Python/Django** e interfaces modernas com **React e Next.js**.
 
-Tenho experiência em sistemas corporativos como **TOTVS RM, Salesforce e Jira** — o que me dá uma visão de negócio além do código. Crio aplicações escaláveis e otimizo fluxos de trabalho com foco em resultado.
+Tenho experiência em sistemas corporativos como **TOTVS RM, Salesforce e Jira** — o que me dá uma visão de negócio além do código. Atualmente na **Bernoulli Educação**, crio aplicações escaláveis e otimizo fluxos de trabalho com foco em resultado.
 
 - 🎥 **YouTube:** [Dev Almeida](https://www.youtube.com/@DevAlmeida-s8j)
 - 💼 **LinkedIn:** [Adriano Almeida](https://www.linkedin.com/in/adrianoalmeidadev/)
